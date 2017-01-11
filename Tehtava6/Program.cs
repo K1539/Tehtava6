@@ -10,6 +10,7 @@ namespace Tehtava6
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
